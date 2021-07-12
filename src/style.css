@@ -20,7 +20,6 @@
     margin-left: -10px;
     z-index: 10;
 
-    /* get了一个居中定位的办法，负margin1/2宽度；relative+absolute配合定位 */
 }
 
 @keyframes wave{
@@ -94,7 +93,6 @@
     left:50%;
     top:170px;
     margin-left: -100px;
-    /* 不知道为啥居中了？负margin */
 }
 
 .mouth .up{
